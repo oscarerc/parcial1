@@ -17,7 +17,7 @@ h1{
 }
 
 .codigo {
-	padding: 0px 18px 18px 18px;
+
 }
 
 .codigo button {
@@ -34,10 +34,6 @@ h1{
 	display: flex;
 }
 
-.pantalla {
-	padding: 0px;
-
-}
 #resultado {
 	background-color: #818181;
 	color: white;
@@ -47,7 +43,6 @@ h1{
 }
 
 .op button {
-	/* display: block; */
 	width: 80px;
 	height: 50px;
 	background-color: #00c0ff;
