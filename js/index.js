@@ -14,7 +14,12 @@ document.getElementById("suma").addEventListener("click",suma);
 document.getElementById("resta").addEventListener("click",resta);
 document.getElementById("multiplicacion").addEventListener("click",multiplicacion);
 document.getElementById("division").addEventListener("click",division);
+document.getElementById("igual").addEventListener("click",operar);
 
+function operar(){
+    var actual = document.getElementById('resultado').innerHTML;
+    
+}
 
 function borrar(){
     var actual = document.getElementById('resultado').innerHTML;
